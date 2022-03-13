@@ -1,0 +1,19 @@
+.list-inline {
+  padding: 0;
+  list-style: none;
+}
+
+.list-inline li {
+  display: inline;
+  margin: 0 16px;
+  font-size: 40px;
+}
+
+.fa-brands {
+  color:  rgb(30 35 36);
+  font-size: 50px;
+}
+
+.fa-brands:hover {
+  color:  rgb(255,212,0);
+}

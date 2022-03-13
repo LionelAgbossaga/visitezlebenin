@@ -1,0 +1,49 @@
+.mainhead
+{
+	background: rgb(49,63,65);
+	color: rgb(0,133,89);
+}
+
+nav
+{
+	min-height: 10vh;
+	display: flex;
+	align-items: center;
+	margin: auto;
+	padding: 2rem;
+}
+
+nav ul
+{
+	display: flex;
+	flex: 1 1 40rem;
+	justify-content: space-around;
+	align-items: center;
+	list-style: none;
+}
+
+nav img.flagbenin
+{
+	width: 128px;
+}
+
+.flagbenin
+{
+	flex: 2 1 40rem;
+}
+
+nav li
+{
+	text-transform: uppercase;
+}
+
+nav a
+{
+	color: white;
+	font-weight: bolder;
+}
+
+.listhead:hover
+{
+	color:  rgb(255,212,0);
+}

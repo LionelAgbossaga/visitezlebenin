@@ -1,0 +1,23 @@
+.footer {
+	background-color:rgb(49,63,65);
+	text-align: center;
+	color: white;
+	padding : 30px 0;
+}
+
+.col {
+	position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.textcenter {
+	text-align: center;
+}
+
+.footer img.flag {
+	width: 128px;
+}
+.textefooter {
+	margin-top: 30px;
+}
